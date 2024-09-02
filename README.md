@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hoseafavour123
 - 👀 I’m interested in backend programming
-- 🌱 I’m currently learning software engineering with ALX
+- 🌱 I’m currently a software engineer
 - 💞️ I’m looking to collaborate on projects that are worthwhile to humanity
 - 📫 How to reach me hoseafavour123@gmail.com
 
