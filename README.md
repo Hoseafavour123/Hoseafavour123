@@ -8,7 +8,7 @@ Welcome to my GitHub space — a launchpad for impactful code, research, and ide
 
 I'm a **Software Developer** currently working on impactful contract-based projects and contributing to systems that drive real change.
 
-In addition to my dev work, I serve as a **researcher at the Pan-African Citizen Science eLab**, and I’m currently interning at **Nigeria’s National Space Research and Development Agency** (NASRDA). My core interests lie in using **AI**, **space technology**, and **software engineering** to solve meaningful problems — especially those related to our planet and access to education.
+In addition to my dev work, I’m currently interning at **Nigeria’s National Space Research and Development Agency** (NASRDA). My core interests lie in using **AI**, **space technology**, and **software engineering** to solve meaningful problems — especially those related to our planet and access to education.
 
 ---
 
@@ -35,7 +35,7 @@ In addition to my dev work, I serve as a **researcher at the Pan-African Citizen
 
 ---
 
-## 🧩 Projects in Progress
+## 🧩 Projects
 
 | Project | Description | Stack |
 |--------|-------------|--------|
