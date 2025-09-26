@@ -33,19 +33,6 @@ In addition to my dev work, I’m currently interning at **Nigeria’s National 
 - MongoDB, Vite, Tailwind CSS  
 - AI Tools, Data APIs, and more...
 
----
-
-## 🧩 Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| **🚗 BeGe** | A ride-sharing and logistics platform connecting users across regions efficiently | React, Node.js, MongoDB |
-| **📚 Quizver** | A smart quizzing platform for testing knowledge with adaptive question sets | React, Express, MongoDB |
-| **🪐 ExoCounter** | A research tool developed to analyze exoplanet datasets for scientists at the Pan-African Citizen Science eLab | Python, Pandas, Jupyter |
-
-> More projects coming soon...
-
----
 
 ## 🔗 Let's Connect
 
