@@ -4,15 +4,15 @@ Welcome to my GitHub space — a launchpad for impactful code, research, and ide
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Software Developer** currently working on impactful contract-based projects and contributing to systems that drive real change.
 
-In addition to my dev work, I’m currently interning at **Nigeria’s National Space Research and Development Agency** (NASRDA). My core interests lie in using **AI**, **space technology**, and **software engineering** to solve meaningful problems — especially those related to our planet and access to education.
+In addition to my dev work, I’ve been an intern at **Nigeria’s Space Agency (NASRDA)** . My core interests lie in using **AI**, **space technology**, and **software engineering** to solve meaningful problems — especially those related to our planet and access to education.
 
 ---
 
-## 🧠 Interests & Focus Areas
+## Interests & Focus Areas
 
 - 🌐 Software & Web Development
 - 💼 SaaS Platforms
@@ -22,7 +22,7 @@ In addition to my dev work, I’m currently interning at **Nigeria’s National 
 
 ---
 
-## 🛠 Tools & Tech Stack
+## Tools & Tech Stack
 
 > Languages, Frameworks & Tools I use regularly:
 
@@ -44,4 +44,4 @@ In addition to my dev work, I’m currently interning at **Nigeria’s National 
 
 > “Code is how I speak to the world — and I'm here to make that voice count.”
 
-Thanks for stopping by! 🚀
+Thanks for stopping by!
