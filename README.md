@@ -1,7 +1,7 @@
 # Hosea Tonzai Favour
-Backend Engineer focused on building scalable backend systems, intelligent platforms, and production-ready APIs.
+
 <p align="left">
-  <img src="./hosea_tonzai_favour.jpg" width="500"/>
+  <img src="./hosea_tonzai_favour.jpg" width="500" style="border-radius:50%;"/>
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@ Backend Engineer focused on building scalable backend systems, intelligent platf
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
+Backend Engineer focused on building scalable backend systems, intelligent platforms, and production-ready APIs.
 
 # Table of Contents
 
