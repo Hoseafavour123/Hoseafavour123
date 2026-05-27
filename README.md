@@ -35,161 +35,176 @@ I am currently focused on backend engineering, distributed systems, AI infrastru
 
 ---
 
-# Featured Projects
 
-## 1. BeGe Backend API
-
-Backend architecture and API infrastructure for a full-featured ride-hailing platform built for a startup.
-
-### Overview
-
-BeGe is a scalable ride-hailing backend system supporting transportation services, package delivery, e-commerce functionality, subscription management, and payment processing.
-
-I designed and developed the complete backend architecture, including authentication systems, real-time communication, queue management, caching layers, and payment workflows.
-
-### Tech Stack
-
-- Node.js
-- Express.js
-- MongoDB
-- Redis
-- Cloudinary
-- Socket.IO
-- Paystack
-
-### Key Features
-
-- Multi-role authentication and authorization
-- Real-time ride tracking and socket events
-- Ride booking and dispatch systems
-- Package delivery workflows
-- E-commerce functionality
-- Subscription management
-- Payment processing with Paystack
-- Queue-based background processing
-- Redis caching layer for performance optimization
-- Cloud-based media storage
-
-### Technical Highlights
-
-- Designed a scalable backend architecture from scratch
-- Implemented real-time systems using socket events
-- Built queue systems for asynchronous task processing
-- Integrated secure payment workflows
-- Optimized API performance using Redis caching
-- Developed production-grade authentication systems
-
-### Role
-
-Sole backend developer responsible for the complete backend system architecture and implementation.
-
-### API Documentation
-
-🔗 https://begeapp-backend.onrender.com/docs
+ # Featured Projects
 
 ---
 
-## 2. BinocAI
+## 1. BinocAI
 
-AI-powered trading intelligence platform focused on token analysis, market insights, and intelligent trade decision support.
+<p align="center">
+  <img src="./binocsai.png" width="800"/>
+</p>
+
+AI-powered trading intelligence platform for token analysis, insights, and decision support.
+
+### 🧠 Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
+</p>
+
+- WebSockets
+- TailwindCSS
+- Solana Wallet Adapter
+- OpenAI API
+- Birdeye API
 
 ### Overview
 
-BinocAI combines AI-driven analysis, social intelligence, and blockchain integrations to help traders make informed decisions in real time.
-
-The platform includes intelligent chat-based analysis tools, watchlists, automated alerts, and token evaluation systems powered by technical and social analysis.
-
-### Tech Stack
-
-- Next.js
-- PostgreSQL
-- Redis
-- TypeScript
-- TailwindCSS
-- Solana Wallet Adapter
-- Birdeye API
-- WebSocket Systems
+BinocAI is an AI-driven trading assistant that combines market data, sentiment analysis, and blockchain integrations to help users make informed trading decisions in real time.
 
 ### Key Features
 
-- SentinelAI intelligent analysis assistant
-- AI-powered token evaluation
-- Social and technical sentiment analysis
-- Real-time trading insights
+- SentinelAI intelligent trading assistant
+- AI-powered token analysis and insights
+- Social + technical market analysis
+- Real-time trading signals
 - Watchlists with automated alerts
-- Solana wallet integration
+- Wallet integration (Solana)
 - Market intelligence dashboard
-- Chat-based trading assistant
-- Real-time trading systems
+- Chat-based analysis system
 
 ### Technical Highlights
 
-- Built intelligent AI-driven analysis workflows
-- Integrated blockchain wallet systems
-- Developed real-time event-driven architecture
-- Implemented scalable caching systems with Redis
-- Designed analytical systems for market intelligence
-- Combined AI tooling with live trading infrastructure
+- Built AI-powered decision support system
+- Integrated blockchain wallet infrastructure
+- Designed real-time event-driven architecture
+- Implemented caching for high-frequency data
+- Combined AI + live market data streams
+- Built scalable trading data pipelines
 
 ### Role
 
-Developer and contributor responsible for platform engineering and backend-focused system development.
+Developer and system engineer responsible for core platform implementation.
 
-### Project Links
+### Links
 
-🔗 Live Demo: https://binocsai.vercel.app
+- 🔗 Live App: https://binocsai.vercel.app
+
+---
+
+## 2. BeGe Backend API
+
+<p align="center">
+  <img src="./assets/bege-preview.png" width="800"/>
+</p>
+
+Backend architecture and API system for a multi-service ride-hailing platform built for a startup.
+
+### 🧠 Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px" />
+</p>
+
+- Socket.IO
+- Cloudinary
+- Paystack
+
+### Overview
+
+BeGe is a scalable backend system powering ride-hailing, package delivery, e-commerce, and subscription-based services.
+
+### Key Features
+
+- Multi-role authentication and authorization system
+- Real-time ride tracking via WebSockets
+- Ride-hailing dispatch system
+- Package delivery workflow engine
+- E-commerce module integration
+- Subscription and billing system
+- Payment processing via Paystack
+- Background job queue system
+- High-performance caching with Redis
+
+### Technical Highlights
+
+- Designed full backend architecture from scratch
+- Built real-time event-driven communication system
+- Implemented scalable queue-based processing
+- Optimized system performance using caching layers
+- Integrated secure payment workflows
+- Built modular and extensible service structure
+
+### Role
+
+Sole backend engineer responsible for full system design and implementation.
+
+### Links
+
+- 🔗 API Docs: https://begeapp-backend.onrender.com/docs
 
 ---
 
 ## 3. Quizver
 
-Real-time quiz competition platform built for a client with live gameplay systems, anti-cheat detection, leaderboards, and payment functionality.
+<p align="center">
+  <img src="./assets/quizver-preview.png" width="800"/>
+</p>
+
+Real-time competitive quiz platform built for live user engagement and reward-based competitions.
+
+### 🧠 Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+</p>
+
+- Socket.IO
+- Payments Integration
 
 ### Overview
 
-Quizver is a competitive quiz platform designed to support real-time quiz participation, automated scoring, payment handling, and reward distribution for top-performing users.
-
-The system was built with scalability, fairness, and real-time engagement in mind.
-
-### Tech Stack
-
-- MongoDB
-- Express.js
-- React
-- Node.js
-- Socket.IO
-- Payment Integrations
+Quizver is a multiplayer quiz system supporting real-time gameplay, scoring, anti-cheat detection, and reward distribution.
 
 ### Key Features
 
 - Real-time multiplayer quiz sessions
-- Cheat detection systems
-- Live alerts and notifications
-- Competitive leaderboards
-- Payment integration
-- Reward and payout systems
-- Authentication and authorization
-- Scalable backend architecture
+- Live leaderboard system
+- Anti-cheat detection engine
+- Notification system for live events
+- Payment and reward payout system
+- User authentication and session handling
 
 ### Technical Highlights
 
-- Built real-time gameplay infrastructure
-- Implemented anti-cheat monitoring systems
-- Developed scalable event-driven systems
-- Integrated payment and payout workflows
-- Designed queue-based processing systems
-- Optimized user interaction performance
+- Built real-time game engine using WebSockets
+- Implemented anti-cheat monitoring logic
+- Designed scalable event-driven backend
+- Integrated payment and reward workflows
+- Built queue-based scoring system
 
 ### Results
 
-- Successfully onboarded 80+ users during early deployment
+- Successfully supported 80+ active users during deployment
 
 ### Role
 
-Sole developer responsible for the architecture and implementation of the platform.
+Full-stack backend developer responsible for system architecture and implementation.
 
-### Project Links
+### Links
 
-🔗 Live Demo: https://quizver.onrender.com
+- 🔗 Live App: https://quizver.onrender.com
 
 ---
