@@ -184,3 +184,83 @@ Full-stack backend developer responsible for system architecture and implementat
 - 🔗 Live App: https://quizver.onrender.com
 
 ---
+
+# Technical Skills
+
+---
+
+## Backend Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30px" />
+</p>
+
+- Node.js
+- Express.js
+- REST API Architecture
+- Authentication & Authorization
+- Real-time Systems (WebSockets)
+- Queue-based Processing
+
+---
+
+## Frontend Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30px" />
+</p>
+
+- React.js
+- Next.js
+- TypeScript
+- TailwindCSS
+
+---
+
+## Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px" />
+</p>
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis (Caching & Queues)
+
+---
+
+## Infrastructure & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30px" />
+</p>
+
+- Cloudinary (Media Storage)
+- WebSockets (Real-time systems)
+- API Documentation (Swagger/OpenAPI)
+- CI/CD Concepts
+- System Design Fundamentals
+
+---
+
+## AI & Intelligent Systems
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" />
+</p>
+
+- OpenAI API Integration
+- AI-Powered Application Workflows
+- Prompt-based system design
+- Intelligent analysis systems (BinocAI)
+
+---
