@@ -1,10 +1,6 @@
 # Hosea Tonzai Favour
 
 <p align="left">
-  <img src="./hosea_tonzai_favour.jpg" width="500" style="border-radius:50%;"/>
-</p>
-
-<p align="left">
   <a href="https://www.linkedin.com/in/hosea-tonzai-favour/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
