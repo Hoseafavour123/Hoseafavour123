@@ -48,7 +48,7 @@ I am currently focused on backend engineering, distributed systems, AI infrastru
 
 AI-powered trading intelligence platform for token analysis, insights, and decision support.
 
-### 🧠 Tech Stack
+###  Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" />
@@ -79,15 +79,6 @@ BinocAI is an AI-driven trading assistant that combines market data, sentiment a
 - Market intelligence dashboard
 - Chat-based analysis system
 
-### Technical Highlights
-
-- Built AI-powered decision support system
-- Integrated blockchain wallet infrastructure
-- Designed real-time event-driven architecture
-- Implemented caching for high-frequency data
-- Combined AI + live market data streams
-- Built scalable trading data pipelines
-
 ### Role
 
 Developer and system engineer responsible for core platform implementation.
@@ -96,6 +87,7 @@ Developer and system engineer responsible for core platform implementation.
 
 - 🔗 Live App: https://binocsai.vercel.app
 
+---
 ---
 
 ## 2. BeGe Backend API
@@ -106,7 +98,7 @@ Developer and system engineer responsible for core platform implementation.
 
 Backend architecture and API system for a multi-service ride-hailing platform built for a startup.
 
-### 🧠 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
@@ -135,15 +127,6 @@ BeGe is a scalable backend system powering ride-hailing, package delivery, e-com
 - Background job queue system
 - High-performance caching with Redis
 
-### Technical Highlights
-
-- Designed full backend architecture from scratch
-- Built real-time event-driven communication system
-- Implemented scalable queue-based processing
-- Optimized system performance using caching layers
-- Integrated secure payment workflows
-- Built modular and extensible service structure
-
 ### Role
 
 Sole backend engineer responsible for full system design and implementation.
@@ -153,16 +136,17 @@ Sole backend engineer responsible for full system design and implementation.
 - 🔗 API Docs: https://begeapp-backend.onrender.com/docs
 
 ---
+---
 
 ## 3. Quizver
 
 <p align="center">
-  <img src="./assets/quizver-preview.png" width="800"/>
+  <img src="./quizver3.png" width="800"/>
 </p>
 
 Real-time competitive quiz platform built for live user engagement and reward-based competitions.
 
-### 🧠 Tech Stack
+###  Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
@@ -186,14 +170,6 @@ Quizver is a multiplayer quiz system supporting real-time gameplay, scoring, ant
 - Notification system for live events
 - Payment and reward payout system
 - User authentication and session handling
-
-### Technical Highlights
-
-- Built real-time game engine using WebSockets
-- Implemented anti-cheat monitoring logic
-- Designed scalable event-driven backend
-- Integrated payment and reward workflows
-- Built queue-based scoring system
 
 ### Results
 
