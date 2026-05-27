@@ -173,7 +173,7 @@ Full-stack backend developer responsible for system architecture and implementat
 
 ### Links
 
-- 🔗 Live App: https://quizver.onrender.com
+- 🔗 Live App: https://quizver.vercel.app
 
 ---
 
