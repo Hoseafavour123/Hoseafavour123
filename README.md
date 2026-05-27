@@ -1,7 +1,7 @@
 # Hosea Tonzai Favour
 Backend Engineer focused on building scalable backend systems, intelligent platforms, and production-ready APIs.
-<p align="center">
-  <img src="./hosea_tonzai_favour.jpg" width="800"/>
+<p align="left">
+  <img src="./hosea_tonzai_favour.jpg" width="500"/>
 </p>
 
 <p align="left">
