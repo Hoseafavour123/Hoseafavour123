@@ -247,7 +247,6 @@ Full-stack backend developer responsible for system architecture and implementat
 - Cloudinary (Media Storage)
 - WebSockets (Real-time systems)
 - API Documentation (Swagger/OpenAPI)
-- CI/CD Concepts
 - System Design Fundamentals
 
 ---
@@ -259,8 +258,20 @@ Full-stack backend developer responsible for system architecture and implementat
 </p>
 
 - OpenAI API Integration
-- AI-Powered Application Workflows
-- Prompt-based system design
 - Intelligent analysis systems (BinocAI)
+
+---
+
+# Resume
+
+<p align="center">
+  <img src="./resume-preview.png" alt="Resume Preview" width="700"/>
+</p>
+
+<p align="center">
+  <a href="./Resume_Hosea_Tonzai_Software.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ---
